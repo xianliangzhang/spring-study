@@ -10,4 +10,5 @@
         <constructor-arg index="0" ref="newsListener"/>
         <constructor-arg index="1" ref="newsPersister"/>
     </bean>
+
 </beans>
